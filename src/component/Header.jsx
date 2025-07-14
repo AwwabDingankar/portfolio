@@ -1,5 +1,5 @@
 import React from 'react'
-import Man from '../assets/man-5354308_1280.png'
+import Man from '../assets/Fuzail.png'
 
 function Header() {
     return(
@@ -7,7 +7,7 @@ function Header() {
         <div className="container mx-auto flex items-center justify-between">
           <div className="flex items-center">
             <img className="rounded-full h-8 w-8 mr-2 md:h-12 md:w-12" src={Man} alt="Profile Image" />
-            <h1 className="text-2xl font-bold ">Tom Johnson</h1>
+            <h1 className="text-2xl font-bold ">Fuzail Palnak</h1>
           </div>
           <ul className="md:flex space-x-8 hidden text-xl font-semibold">
             <li><a href="#" className="cursor-pointer hover:underline">About Me</a></li>

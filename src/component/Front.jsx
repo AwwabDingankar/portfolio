@@ -8,12 +8,12 @@ function Front() {
       <div className="text-white mt-8 mx-4 md:mx-8">
         <p className="text-8xl font-bold">I am</p>
         <p className="text-2xl font-bold md:text-4xl md:font-semibold text-yellow-400 mt-4">
-          Passionate Web Developer
+          Passionate Researcher
         </p>
         <div className="w-36 h-2 border-b-4 border-purple-600 mt-2 mb-4"></div>
         <p className="text-2xl text-gray-400 mt-8 text-center md:text-start">
-          I am a passionate Web Developer with over 5 years of experience in
-          creating compelling visual designs.
+          With a passion for pushing the boundaries, I am dedicated to
+          developing cutting-edge solutions for real-world problems.
         </p>
       </div>
       <div className="">
